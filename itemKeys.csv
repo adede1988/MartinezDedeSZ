@@ -1,0 +1,816 @@
+itemName,itemDescrip,itemFile,descriptiveName
+collection_id,collection_id,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+akts01_id,akts01_id,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak001,"I'm a sad, unhappy person.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak002,People tell me I am unable to see the lighter side of things.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak003,I have suffered a lot in life.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak004,I think things often turn out for the worst.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+basc_s65,I give up easily,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak006,"For as long as I can remember, I've felt like a failure.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak007,I have always blamed myself for what others might consider no big deal.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak008,I don't seem to have as much energy as other people.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak009,I'm the kind of person who doesn't like change very much.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak010,"In a group, I would rather hear others talk.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak011,I often give into others.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak012,I feel very uneasy meeting new people.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak013,My feelings are easily hurt by criticism or rejection.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak014,I am the kind of person you can always depend on.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak015,I put the needs of others above my own.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+tci62,I am more hard-working than most people,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak017,I would rather work for someone else then be the boss.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak018,It is natural for me to be neat and organized.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak019,I'm the kind of person who doubts everything.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak020,My sex drive has always been low.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak021,I normally need more than 9 hours of sleep.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak022,I often feel tired for no reason.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak023,I get sudden shifts in mood and energy.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak024,"My moods and energy are either high or low, rarely in between.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak025,My ability to think varies greatly from sharp to dull for no apparent reason.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak026,"I can really like someone a lot, and then completely lose interest in them.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak027,I often blow up at people and then feel guilty about it.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak028,I often start things and then lose interest before finishing them.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak029,My mood often changes for no reason.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak030,I consistently switch between being lively and sluggish.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak031,"I sometimes go to bed feeling down, but wake up in the morning feeling terrific.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak032,"I sometimes go to bed feeling great, and wake up in the morning feeling life is not worth living.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak033,"I am told that I often get pessimistic about things, and forget previous happy times.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak034,I go back and forth between feeling overconfident and feeling unsure of myself.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak035,I go back and forth between being outgoing and being withdrawn from others.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak036,I feel all emotions intensely.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak037,My need for sleep varies a lot from just a few hours to more than 9 hours.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak038,"The way I see things is sometimes vivid, but at other times lifeless.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak039,I am the kind of person who can be sad and happy at the same time.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak040,I daydream a great deal about things that other people consider impossible to achieve.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak041,I often have a strong urge to do outrageous things.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak042,I am the kind of person who falls in and out of love easily.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak043,I am usually in an upbeat or cheerful mood.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak044,Life is a feast which I enjoy to the fullest.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak045,"I like telling jokes, people tell me I'm humorous.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak046,I'm the kind of person who believes everything will eventually turn out all right.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak047,I have great confidence in myself.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak048,I often get many great ideas.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak049,I am always on the go.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak050,I can accomplish many tasks without even getting tired.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak051,"I have a gift for speech, convincing and inspiring to others.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak052,"I love to tackle new projects, even If risky.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak053,"Once I decide to accomplish something, nothing can stop me.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak054,I am totally comfortable even with people I hardly know.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak055,I love to be with a lot of people.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak056,People tell me that I often get my nose into others' business.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak057,"I am generous, and spend a lot of money on other people.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak058,I have abilities and expertise in many areas.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak059,I feel I have the right and privilege to do as I please.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak060,I am the kind of person who likes to be the boss.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak061,"When I disagree with someone, I can get into a heated argument.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak062,My sex drive is always high.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak063,Normally I can get by with less than 6 hours of sleep.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak064,I am a grouchy (irritable) person.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak065,I am by nature a dissatisfied person.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+pdq77,I complain a lot about my hardships.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+pdq70,I am critical of others.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak068,I often feel on edge.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak069,I often feel wound up.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak070,I am driven by an unpleasant restlessness that I don't understand.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak071,I often get so mad that I will just trash everything.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak072,"When crossed, I could get into a fight.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak073,People tell me I blow up out of nowhere.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak074,"When angry, I snap at people.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak075,"I like to tease people, even those I hardly know.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak076,My biting humor has gotten me into trouble.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak077,I can get so furious I could hurt someone.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak078,"I am so jealous of my spouse (or lover), that I cannot stand it.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak079,I am known to swear a lot.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak080,I have been told that I become violent with just a few drinks.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak081,I am a very skeptical person.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak082,I could be a revolutionary.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak083,My sex drive is often so intense that it is truly unpleasant.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak084,(Women only): I have attacks of uncontrollable rage right before my periods.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak085,I have been a worrier for as long as I can remember.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak086,I'm always worrying bout one thing or another.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak087,I keep on worrying about daily matters that others consider minor.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak088,I cannot help worrying.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak089,Many people have told me not to worry so much.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak090,"When stressed, my mind often goes blank.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak091,I am unable to relax.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak092,I often feel jittery inside.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak093,"When stressed, my hands often tremble.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak094,I often have an upset stomach.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak095,"When I'm nervous, I may have diarrhea.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak096,"When I'm nervous, I often feel nauseous.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak097,"When I'm nervous, I have to go to the bathroom more often.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak098,"When someone is late coming home, I fear they may have had an accident.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak099,I am often fearful of someone in my family coming down with a serious disease.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak100,I'm always thinking someone might break bad news to me about a family member.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak101,My sleep is not restful.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak102,I frequently have difficulty falling asleep.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak103,"I am, by nature, a very cautious person.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak104,I often wake up at night afraid that burglars are in the house.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak105,I easily get headaches when stressed.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak106,"When stressed, I get an uncomfortable feeling in my chest.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak107,I'm an insecure person.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak108,Even minor changes in routine stress me highly.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak109,"While driving, even when I haven't done anything wrong, I fear that police may stop me.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak110,Sudden noises startle me easily.,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+ak_overall,"Select the one item that describes you the best, overall for most of your life.",G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+collection_title,collection_title,G:\Package_1204973\txtDocs\akts01.txt,Akiskal Temperament Scale
+collection_id,collection_id,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bac01_id,bac01_id,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bacs_dstotalscore,Total Digit Sequencing Score,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bacs_sc_total,Symbol-Coding Total,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bacs_tl_total,Tower of London: Total score,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+baseline_a_002,Interview Start Time:,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+stoptime,Stop time,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bacvm1,Trial 1 Verbal Memory,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bacvm2,Trial 2 Verbal Memory,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bacvm3,Trial 3 Verbal Memory,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bacvm4,Trial 4 Verbal Memory,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bacvm5,Trial 5 Verbal Memory,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bactmts,Total Score Token Motor,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bacflua,Animal Naming Fluency,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bacfluf,Animal Naming Letter F,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+bacflus,Animal Naming Letter S,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+collection_title,collection_title,G:\Package_1204973\txtDocs\bac01.txt,Brief Assessment of Cognition
+collection_id,collection_id,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis01_id,bis01_id,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis1,I/They plan tasks carefully.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis2,I/They do things without thinking.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis3,I/They make up my mind quickly.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis4,I/They am happy-go-lucky.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis5,"I/They don't ""pay attention.""",G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis6,"I/They have ""racing"" thoughts.",G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis7,I/They plan trips well ahead of time.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis8,I/They am self controlled.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis9,I/They concentrate easily.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis10,I/They save regularly.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis11,"I/They ""squirm"" at plays or lectures.",G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis12,I/They am a careful thinker.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis13,I/They  plan for job security.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis14,I/They say things without thinking.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis15,I/They like to think about complex problems.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis16,I/They change jobs.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis17,"I/They act ""on impulse.""",G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis18,I/They get easily bored when solving thought problems.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis19,I/They act on the spur of the moment.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis20,I/They am a steady thinker.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis21,I/They change residences./ I change where I live,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis22,I/They buy things on impulse.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis23,I/They can only think about one thing at a time.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis24,I/They change hobbies.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis25,I/They spend or charge more than I earn.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis26,I/They often have extraneous thoughts when thinking./ I have outside thoughts while thinking,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis27,I/They am more interested in the present than the future.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis28,I/They am restless at the theater or lectures./ I am restless at lectures or talks,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis29,I/They like puzzles.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis30,I/They am future oriented./ I plan for the future,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis_total,BIS total score,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis_f1,Factor 1. Attention,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis_f2,Factor 2. Motor impulsiveness,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis_f3,Factor 3. Self-control,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis_f4,Factor 4. Cognitive complexity,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis_f5,Factor 5. Perseverance,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis_f6,Factor 6. Cognitive instability,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis_fi,Factor I. Attentional Impulsiveness,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis_fii,Factor II. Motor Impulsiveness,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+bis_fiii,Factor III. Non-planning Impulsiveness.,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+collection_title,collection_title,G:\Package_1204973\txtDocs\bis01.txt,Barratt Impulsivity Scale
+collection_id,collection_id,G:\Package_1204973\txtDocs\demod01.txt,Demographics Data
+demod01_id,demod01_id,G:\Package_1204973\txtDocs\demod01.txt,Demographics Data
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\demod01.txt,Demographics Data
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\demod01.txt,Demographics Data
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\demod01.txt,Demographics Data
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\demod01.txt,Demographics Data
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\demod01.txt,Demographics Data
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\demod01.txt,Demographics Data
+ethnicity,Ethnicity of participant,G:\Package_1204973\txtDocs\demod01.txt,Demographics Data
+race,Race of study subject,G:\Package_1204973\txtDocs\demod01.txt,Demographics Data
+das1ms,Marital status,G:\Package_1204973\txtDocs\demod01.txt,Demographics Data
+collection_title,collection_title,G:\Package_1204973\txtDocs\demod01.txt,Demographics Data
+collection_id,collection_id,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+fh01_id,fh01_id,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+deprmom,difficulties depression mother,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+deprdad,difficulties depression father,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+suicmom,suicide mother,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+suicdad,suicide father,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+alcmom,alcohol mother,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+alcdad,alcohol father,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+fhx05b,Schizophrenia:Mother,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+fhx05c,Schizophrenia:Father,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+fhx06b,Bipolar Disorder: Mother,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+fhx06c,Bipolar Disorder: Father,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+total_relatives,"Total number of first-degree biological relatives, affected and unaffected, living and nonliving",G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+schiz_sib1,"Schizophrenia, sibling 1",G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+cfmh_chd_schizo,Does (did) the Participant have Schizophrenia?,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+scz_aun,Schizophrenia Aunt,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+scz_unc,Schizophrenia Uncle,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+scz_grp,Schizophrenia Grandparent,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+bipd_sib1,"Bipolar disorder (Manic/depression), sibling 1",G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+child_bipolar,Does (did) the Child have a Bipolar Disorder?,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+bip_has,Bipolar Disorder Half-Sibling,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+bip_aun,Bipolar Disorder Aunt,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+bip_unc,Bipolar Disorder Uncle,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+bip_nie,Bipolar Disorder Niece,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+bip_nep,Bipolar Disorder Nephew,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+bip_grp,Bipolar Disorder Grandparent,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+dep_sib,Depressive Sibling,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+dep_chi,Depressive Child,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+dep_has,Depressive Half-Sibling,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+dep_aun,Depressive Aunt,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+dep_unc,Depressive Uncle,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+dep_nie,Depressive Niece,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+dep_grp,Depressive Grandparent,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sui_chi,"Suicide, Suicide Attempt Child",G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sui_aun,"Suicide, Suicide Attempt Aunt",G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sui_unc,"Suicide, Suicide Attempt Uncle",G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sui_grp,"Suicide, Suicide Attempt Grandparent",G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+alc_sib,Alcoholism Sibling,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+alc_chi,Alcoholism Child,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+alc_has,Alcoholism Half-Sibling,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+alc_aun,Alcoholism Aunt,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+alc_unc,Alcoholism Uncle,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+alc_nep,Alcoholism Nephew,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+alc_grp,Alcoholism Grandparent,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sud_mot,Substance use disorder Mother,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sud_fat,Substance use disorder Father,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sud_sib,Substance use disorder Sibling,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sud_chi,Substance use disorder Child,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sud_has,Substance use disorder Half-Sibling,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sud_aun,Substance use disorder Aunt,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sud_unc,Substance use disorder Uncle,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sud_nie,Substance use disorder Niece,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sud_nep,Substance use disorder Nephew,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sud_grp,Substance use disorder Grandparent,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+omi_mot,Other mental illness Mother,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+omi_fat,Other mental illness Father,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+omi_sib,Other mental illness Sibling,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+omi_chi,Other mental illness Child,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+omi_has,Other mental illness Half-Sibling,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+omi_aun,Other mental illness Aunt,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+omi_unc,Other mental illness Uncle,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+omi_nie,Other mental illness Niece,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+omi_nep,Other mental illness Nephew,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+omi_grp,Other mental illness Grandparent,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+sui_sib,"Suicide, Suicide Attempt Sibling",G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+collection_title,collection_title,G:\Package_1204973\txtDocs\fh01.txt,Family History Form
+collection_id,collection_id,G:\Package_1204973\txtDocs\iec01.txt,
+iec01_id,iec01_id,G:\Package_1204973\txtDocs\iec01.txt,
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\iec01.txt,
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\iec01.txt,
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\iec01.txt,
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\iec01.txt,
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\iec01.txt,
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\iec01.txt,
+site,Site,G:\Package_1204973\txtDocs\iec01.txt,
+study,Study; The code for each individual study,G:\Package_1204973\txtDocs\iec01.txt,
+wr_rawscore,Word Reading Raw Score,G:\Package_1204973\txtDocs\iec01.txt,
+collection_title,collection_title,G:\Package_1204973\txtDocs\iec01.txt,
+collection_id,collection_id,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+letsca01_id,letsca01_id,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+i01drugs,Lethality Scale for Drugs with Sedative Effects,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+i01met,Lethality Scale for Drugs with Sedative Effects Method Code,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+i02drugs,Lethality Scale for Drugs without Sedative Effects and for other Ingested Substances (e.g. household ammonia),G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+i02met,Lethality Scale for Drugs without Sedative Effects Method code,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+i06cut,Lethality Scale for Cutting,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+collection_title,collection_title,G:\Package_1204973\txtDocs\letsca01.txt,Lethality Scale
+collection_id,collection_id,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+madrs01_id,madrs01_id,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+madrssad,Reported sadness,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+madrspes,Pessimistic thoughts,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+madrssui,Suicidal thoughts,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+madrsslp,Reduced sleep,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+madrsfee,Inability to feel,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+madrslas,Lassitude,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+madrscon,Concentration difficult,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+madrsten,Inner tension,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+madrsapp,Reduced appetite,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+madrsaps,Apparent sadness,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+madrstot,MADRS Total Score,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+collection_title,collection_title,G:\Package_1204973\txtDocs\madrs01.txt,Montgomery-Asberg Depression Rating Scale
+collection_id,collection_id,G:\Package_1204973\txtDocs\meds01.txt,Medications
+meds01_id,meds01_id,G:\Package_1204973\txtDocs\meds01.txt,Medications
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\meds01.txt,Medications
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\meds01.txt,Medications
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\meds01.txt,Medications
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\meds01.txt,Medications
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\meds01.txt,Medications
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication1_name,Name first medication that the participant has taken,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication1_dosage,First medication dosage,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication2_name,Name second medication that the participant has taken,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication2_dosage,Second medication dosage,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication3_name,Name third medication that the participant has taken,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication3_dosage,Third medication dosage,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication4_name,Name fourth medication that the participant has taken,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication4_dosage,Fourth  medication dosage,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication5_name,Name fifth medication that the participant has taken,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication5_dosage,Fifth medication dosage,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication6_name,Name sixth medication that the participant has taken,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication6_dosage,Sixth medication dosage,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication7_name,Name seventh medication that the participant has taken,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication7_dosage,Seventh medication dosage,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication8_name,Name eighth medication that the participant has taken,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication8_dosage,Eighth medication dosage,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication_start,Start date of medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication2_start,Medication 2 start,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication3_start,Medication 3 start,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication9_name,Name ninth medication that the participant has taken,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication9_dosage,Ninth medication dosage,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication_10_name,specify med 10,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication10_dose,Medication 10 dose last taken,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication11_name,Medication 11 name,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication11_dosage,medication 11 dosage,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication12_name,Med name12,G:\Package_1204973\txtDocs\meds01.txt,Medications
+medication13_name,Medication 13 name,G:\Package_1204973\txtDocs\meds01.txt,Medications
+concdrug,concomitant drugs,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source1,Med 1: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source2,Med 2: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source3,Med 3: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source4,Med 4: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source5,Med 5: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source6,Med 6: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source7,Med 7: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source8,Med 8: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source9,Med 9: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source10,Med 10: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source11,Med 11: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source12,Med 12: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+med_source13,Med 13: source of data,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq1,frequency medication 1,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq2,frequency medication 2,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq3,frequency medication 3,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq4,frequency medication 4,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq5,frequency medication 5,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq6,frequency medication 6,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq7,frequency medication 7,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq8,frequency medication 8,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq9,frequency medication 9,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq10,frequency medication 10,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq11,frequency medication 11,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq12,frequency medication 12,G:\Package_1204973\txtDocs\meds01.txt,Medications
+freq13,frequency medication 13,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont1,drug 1 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont2,drug 2 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont3,drug 3 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont4,drug 4 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont5,drug 5 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont6,drug 6 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont7,drug 7 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont8,drug 8 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont9,drug 9 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont10,drug 10 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont11,drug 11 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont12,drug 12 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+cont13,drug 13 continued,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds1,Date medication 1 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months1,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds2,Date medication 2 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months2,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds3,Date medication 3 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months3,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds4,Date medication 4 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months4,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds5,Date medication 5 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months5,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds6,Date medication 6 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months6,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds7,Date medication 7 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months7,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds8,Date medication 8 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months8,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds9,Date medication 9 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months9,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds10,Date medication 10 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months10,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds11,Date medication 11 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months11,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds12,Date medication 12 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months12,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+date_meds13,Date medication 13 recorded,G:\Package_1204973\txtDocs\meds01.txt,Medications
+months13,Number of months on this medication,G:\Package_1204973\txtDocs\meds01.txt,Medications
+collection_title,collection_title,G:\Package_1204973\txtDocs\meds01.txt,Medications
+collection_id,collection_id,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+ndar_subject01_id,ndar_subject01_id,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+race,Race of study subject,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+phenotype,Phenotype/diagnosis for the subject,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+phenotype_description,Description of the phenotype for the subject,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+twins_study,Is this study of twins?,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+sibling_study,Was it sibling study? Study of sibling(s) of autistic child.,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+family_study,"Was it family study? Study of biological mother, biological father and/or sibling of proband.",G:\Package_1204973\txtDocs\ndar_subject01.txt,
+family_user_def_id,Family Pedigree User-Defined ID,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+src_mother_id,site specific mother ID,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+src_father_id,site specific father ID,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+src_sibling1_id,site specific sibling1 ID,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+sibling_type1,Type of Sibling,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+src_sibling2_id,site specific sibling2 ID,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+sibling_type2,sibling type,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+src_sibling3_id,site specific sibling3 ID,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+sibling_type3,sibling type,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+sample_taken,Was a sample taken at this interview/during this project time,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+collection_title,collection_title,G:\Package_1204973\txtDocs\ndar_subject01.txt,
+collection_id,collection_id,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+panss01_id,panss01_id,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+panss_general,PANSS General score,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+panss_negative,PANSS Negative score,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+panss_positive,PANSS Positive score,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+panss_total,PANSS Total score,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+pos_p1,"DELUSIONS-Beliefs which are unfounded, unrealistic and idiosyncratic. Basis for rating: Thought content expressed in the interview and its influence on social relations and behavior.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+pos_p2,"CONCEPTUAL DISORGANIZATION: Disorganized process of thinking characterized by disruption of goal-directed sequencing, e.g., circumstantiality, loose associations, tangentiality, gross illogicality or thought block. Basis for rating: Cognitive-verbal processes observed during the course of interview.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+pos_p3,"HALLUCINATORY BEHAVIOR: Verbal report or behavior indicating perceptions which are not generated by external stimuli. These may occur in the auditory, visual, olfactory or somatic realms. Basis for rating: Verbal report and physical manifectations during the course of interview as well as reports of behavior by primary care workers or family.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+pos_p4,"EXCITEMENT: Hyperactivity as reflected in accelerated motor behavior, heightened responsivity to stimuli, hypervigilance or excessive mood lability. Basis for rating: Behavioral manifestations during the course of interview as well as reports of behavior by primary care workers or family.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+pos_p5,"GRANDIOSITY: Exaggerated self-opinion and unrealistic convictions of superiority, including delusions of extraordinary abilities, wealth, knowledge, fame, power, and moral righteousness. Basis for rating: Thought content expressed in the interview and its influence on behavior.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+pos_p6,"SUSPICIOUSNESS/PERSECUTION: Unrealistic or exaggerated ideas of persecution, as reflected in guardedness, ad distrustful attitude, suspicious hypervigilance or frank delusions that others mean harm. Basis for rating: Thought content expressed in the interview and its influence on behavior.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+pos_p7,"HOSTILITY: Verbal and nonverbal expressions of anger and resentment, including sarcasm, passive-aggressive behavior, verbal abuse, and assaultiveness. Basis for rating: interpersonal behavior observed during the interview and reports by primary care workers or family.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+neg_n1,"BLUNTED AFFECT: Diminished emotional responsiveness as characterized by a reduction in facial expression, modulation of feelings and communicative gestures. Basis for rating: Observation of physical manifestations of affective tone and emotional responsiveness during the course of the interview.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+neg_n2,"EMOTIONAL WITHDRAWAL: Lack of interest in, involvement with, and affective commitment to lifes events. Basis for rating: Reports of functioning from primary care workers or family and observation of interpersonal behavior during the course of the interview.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+neg_n3,"POOR RAPPORT: Lack of interpersonal empathy, openness in conversation and sense of closeness, interest or involvement with the interviewer. This is evidenced by interpersonal distancing and reduced verbal and nonverbal communication. Basis for rating: Interpersonal behavior during the course of the interview.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+neg_n4,"PASSIVE/APATHETIC SOCIAL WITHDRAWAL: Diminished interest and initiative in social interactions due to passivity, apathy, anergy or avolition. This leads to reduced interpersonal involvements and neglect of activities of daily living. Basis for rating: Reports on social behavior from primary care workers or family.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+neg_n5,"DIFFICULTY IN ABSTRACT THINKING: Impairment in the use of the abstract-symbolic mode of thinking, as evidenced by difficulty in classification, forming generalizations and proceeding beyond concrete or egocentric thinking in problem-solving tasks. Basis for rating: Responses to questions on similarities and proverb interpretation, and use of concrete vs. abstract mode during the course of the interview.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+neg_n6,"LACK OF SPONTANEITY AND FLOW OF CONVERSATION: Reduction in the normal flow of communication associated with apathy, avolition, defensiveness or cognitive deficit. This is manifested by diminished fluidity and productivity of the verbal interactional process. Basis for rating: Cognitive-verbal processes observed during the course of interview.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+neg_n7,"STEREOTYPED THINKING: Decreased fluidity, spontaneity and flexibility of thinking, as evidenced in rigid, repetitious or barren thought content. Basis for rating: Cognitive: verbal processes observed during the interview.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g1,SOMATIC CONCERN: Physical complaints or beliefs about bodily illness or malfunctions. This may range from a vague sense of ill being to clear-cut delusions of catastrophic physical disease. Basis for rating: Thought content expressed in the interview.,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g2,"ANXIETY: Subjective experience of nervousness, worry, apprehension or restlessness, ranging from excessive concern about the present or future to feelings of panic. Basis for rating: Verbal report during the course of interview and corresponding physical manifestations.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g3,GUILT FEELINGS: Sense of remorse or self-blame for real or imagined misdeeds in the past. Basis for rating: Verbal report of guilt feelings during the course of interview and the influence on attitudes and thoughts.,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g4,"TENSION: Overt physical manifestations of fear, anxiety, and agitation, such as stiffness, tremor, profuse sweating and restlessness. Basis for rating: Verbal report attesting to anxiety and thereupon the severity of physical manifestations of tension observed during the interview.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g5,"MANNERISMS AND POSTURING: Unnatural movements or posture as characterized by an awkward, stilted, disorganized, or bizarre appearance. Basis for rating: Observation of physical manifestations during the course of interview as well as reports from primary care workers or family.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g6,"DEPRESSION: Feelings of sadness, discouragement, helplessness and pessimism. Basis for rating: Verbal report of depressed mood during the course of interview and its observed influence on attitude and behavior.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g7,"MOTOR RETARDATION: Reduction in motor activity as reflected in slowing or lessening or movements and speech, diminished responsiveness of stimuli, and reduced body tone. Basis for rating: Manifestations during the course of interview as well as reports by primary care workers as well as family.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g8,"UNCOOPERATIVENESS: Active refusal to comply with the will of significant others, including the interviewer, hospital staff or family, which may be associated with distrust, defensiveness, stubbornness, negativism, rejection of authority, hostility, or belligerence. Basis for rating: ",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g9,"UNUSUAL THOUGHT CONTENT: Thinking characterized by strange, fantastic or bizarre ideas, ranging from those which are remote or atypical to those which are distorted, illogical and patently absurd. Basis for rating: Thought content expressed during the course of interview.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g10,"DISORIENTATION: Lack of awareness of ones relationship to the milieu, including persons, place and time, which may be due to confusion or withdrawal. Basis for rating: Responses to interview questions on orientation.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g11,"POOR ATTENTION: Failure in focused alertness manifested by poor concentration, distractibility from internal and external stimuli, and difficulty in harnessing, sustaining or shifting focus to new stimuli. Basis for rating: Manifestations during the course of interview.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g12,"LACK OF JUDGEMENT AND INSIGHT: Impaired awareness or understanding of ones own psychiatric condition and life situation. This is evidenced by failure to recognize past or present psychiatric illness or sumptoms, denial of need for psychiatric hospitalization or treatment, decisions characterized by poor anticipation or consequences, and unrealistic short-term and long-range planning. Basis for rating: Thought content expressed during the interview.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g13,"DISTURBANCE OF VOLITION: Disturbance in the willful initiation, sustenance and control of ones thoughts, behavior, movements and speech. Basis for rating: Thought content and behavior manifested in the course of interview.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g14,"POOR IMPULSE CONTROL: Disordered regulation and control of action on inner urges, resulting in sudden, unmodulated, arbitrary or misdirected discharge of tension and emotions without concern about consequences. Basis for rating: Behavior during the course of interview and reportted by primary care workers or family.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g15,PREOCCUPATION: Absorption with internally generated thoughts and feelings and with autistic experiences to the detriment of reality orientation and adaptive behavior. Basis for rating: Interpersonal behavior observed during the course of interview.,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+gps_g16,"ACTIVE SOCIAL AVOIDANCE: Deminished social involvement associated with unwarranted fear, hostility, or distrust. Basis for rating: Reports of social functioning primary care workers or family.",G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+collection_title,collection_title,G:\Package_1204973\txtDocs\panss01.txt,Structured Clinical Interview for the Positive and Negative Syndrome Scale
+collection_id,collection_id,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+pmh01_id,pmh01_id,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+age_1st_hosp,Age at first psychiatric hospitalization (years),G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+hospcount,How many psychiatric hospitalizations has the subject had (lifetime)? (number of episodes),G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+ectever,Has the subject ever received an ECT?,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+suiciever,Has the subject ever attempted suicide (include 'true' suicide attempts and/or suicide gestures)?,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+aller,"Allergies, Medications",G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+midihist_002,Allergies- Other,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+heent,Heent exam,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+mhxa1c,Coronary artery disease,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+lhq_hyp,Hypertension,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+cardiooth,Other Cardio,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+mhx005a,History of: Renal disorder,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+hepat,Hepatitis,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+mhx007aa,History of: Pulmonary disorder,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+gastro,"Gastrointestinal Disorder (Stomach, Bowels)",G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+muscul,"Musculoskeletal Disorder (Muscles, Joints, Spine)",G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+neuro_dis,"Neurologic Disorder (Brain, Spinal Cord, Peripheral Nerves)",G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+mhx013a,History of: Dermatologic disorder,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+baseline_k_005,Has she/he ever been to a doctor for any of these things…Diabetes /Diabetes,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+mdga10,Diagnosed with: Hyperlipidemia,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+hemato,Hematologic Disorder (Blood Disorders),G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+endoc,"Endocrine Disorder (Thyroid gland, Adrenal glands, etc.)",G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+genit_dis,"Genitourinary Disorder (Bladder, Reproductive System)",G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+medprob_inf,Infectious Disease: Is there any known abnormality in this area,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+szsadbponset,"How old was the subject at the first symptom onset of SZ, SAD, or Psychotic BD? (specify age in years)",G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+i1a,How old was the subject at the first onset of any psychiatric illness? (specify age in years),G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+i7,Has any member of your family ever beenhospitalized for a psychiatric problem or a nervous breakdown?,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+i8,Has any member of your family taken medicines to treat a psychiatric problem?,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+i9,Has any member of your family lived in a group home or supervised housing?,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+i10,Does any member of your family receive SSI or disability benefits?,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+i11,Is any member of your family odd or eccentric?,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+i11a,Is he/she withdrawn?,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+i11b,Does he/she talk to himself/herself?,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+i12a,"Number of first degree relatives with a probable schizophrenia/bipolar spectrum disorders (DSM-IV Axis I and Axis II): schizophrenia, schizoaffective disorder, bipolar disorders, major depressive disorder, cluster A and cluster B personality disorders.",G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+i12b,"Number of second degree relatives (e.g. grandparents, grandchildren, aunts, uncles,) with a probable schizophrenia/bipolar spectrum disorders (DSM-IV Axis I and Axis II): schizophrenia, schizoaffective disorder, bipolar disorders, major depressive disorder, cluster A and cluster B personality disorders.",G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+i12c,"Number of third degree relatives (e.g. great- grandparents) with a probable schizophrenia/bipolar spectrum disorders (DSM-IV Axis I and Axis II): schizophrenia, schizoaffective disorder, bipolar disorders, major depressive disorder, cluster A and cluster B personality disorders.",G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+collection_title,collection_title,G:\Package_1204973\txtDocs\pmh01.txt,psychiatric medical history
+collection_id,collection_id,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+psychosocial01_id,psychosocial01_id,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+psysoc_65,Primary Axis I:,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+psysoc_70,AXIS V (GAF),G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+seizures,Does (did) the subject have Seizures?,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+handedness,handedness,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+fhxcp,Cerebral Palsy,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+sad_subtype,"If diagnosis of SAD (295.70), specify subtype",G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+axis1_com1,Axis I Comorbid Diagnosis DSM IV-TR diagnostic code,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+axis1_com2,Axis I Comorbid Diagnosis DSM IV-TR diagnostic code - 2,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+axis1_com3,Axis I Comorbid Diagnosis DSM IV-TR diagnostic code - 3,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+axis1_com4,Axis I Comorbid Diagnosis DSM IV-TR diagnostic code - 4,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+axis1_com5,Axis I Comorbid Diagnosis DSM IV-TR diagnostic code - 5,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+pardx,Paranoid (calculated field from the SIDP)Axis II (Personality Disorders/Mental Retardation),G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+avddx,Avoidant (calculated field from the SIDP)Axis II (Personality Disorders/Mental Retardation),G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+obcdx,Obsessive (calculated field from the SIDP)Axis II (Personality Disorders/Mental Retardation),G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+psychosis_lt,Lifetime Psychosis,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+collection_title,collection_title,G:\Package_1204973\txtDocs\psychosocial01.txt,psychosocial interview
+collection_id,collection_id,G:\Package_1204973\txtDocs\ses01.txt,
+ses01_id,ses01_id,G:\Package_1204973\txtDocs\ses01.txt,
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\ses01.txt,
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\ses01.txt,
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\ses01.txt,
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\ses01.txt,
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\ses01.txt,
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\ses01.txt,
+educat,Number of years in formal education,G:\Package_1204973\txtDocs\ses01.txt,
+sub_edscale,Participant Educational Scale,G:\Package_1204973\txtDocs\ses01.txt,
+job_ptcu,Level of Occupation. Patient current,G:\Package_1204973\txtDocs\ses01.txt,
+mother_edu_years,Mother's years of education,G:\Package_1204973\txtDocs\ses01.txt,
+mot_edscale,Mother Educational Scale,G:\Package_1204973\txtDocs\ses01.txt,
+dem_09a,Mother highest occupation,G:\Package_1204973\txtDocs\ses01.txt,
+father_edu_years,Father's years of education,G:\Package_1204973\txtDocs\ses01.txt,
+fat_edscale,Father Educational Scale,G:\Package_1204973\txtDocs\ses01.txt,
+dem_09b,Father highest occupation,G:\Package_1204973\txtDocs\ses01.txt,
+collection_title,collection_title,G:\Package_1204973\txtDocs\ses01.txt,
+collection_id,collection_id,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs01_id,sfs01_id,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_03,"""Social Engagement/Withdrawal. 2. How many hours do you spend alone? (eg. Alone in a room, walking out alone, listening to the radio or watching TV alone ect.)""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_04,Social Engagement/Withdrawal. 3. How often will you start a conversation at home?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_05,Social Engagement/Withdrawal. 4. How often do you leave the house (for any reason)?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_06,Social Engagement/Withdrawal. 5. How do you react to the presence of strangers?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_07,Interpersonal Communication. 1.How many friends do you have at the moment?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_08,Interpersonal Communication. 2.Do you have a boy \ girlfriend of are you married?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_09,"""interpersonal Communication. Total of 1 & 2 (items 1 & 2 are added together, the highest score is 3)""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_10,Interpersonal Communication. 3.How often are you able to carry out a sensible or rational conversation?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_11,Interpersonal Communication. 4.How easy or difficult do you find it talking to people at the moment?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_12,Interpersonal Communication. Total of items 1-4,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_13,Independence-p: How often you have done Buying items from stores (without help) over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_14,"""Independence-p: How often you have done Washing pots, tidying up, etc over the past 1 month?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_15,Independence-p: How often you have done Taking regular showers & baths over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_16,Independence-p: How often you have done Washing own clothes over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_17,Independence-p: How often you have done Looking for a job (if unemployed) over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_18,Independence-p: How often you have done Doing the food shopping over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_19,Independence-p: How often you have done Preparing and cooking a meal over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_20,Independence-p: How often you have done Leaving the house alone over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_21,"""Independence-p: How often you have done Using buses, trains, etc over the past 1 month?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_22,Independence-p: How often you have done Using money over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_23,Independence-p: How often you have done Budgeting over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_24,Independence-p: How often you have done Choosing & buying clothes for self over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_25,Independence-p: How often you have done Take care of personal appearance over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_26,Independence-p: Total of independence-p items,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_27,Recreation: How often you have done Playing musical instruments over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_28,"""Recreation: How often you have done Sewing, knitting over the past 1 month?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_29,"""Recreation: How often you have done Gardening, growing plants over the past 1 month?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_30,Recreation: How often you have done Reading books or magazines over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_31,Recreation: How often you have done Watching television over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_32,Recreation: How often you have done Listening to CDs or radio over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_33,Recreation: How often you have done Cooking over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_34,Recreation: How often you have done Home handyman projects over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_35,"""Recreation: How often you have done Fixing things (car, bike, household, etc.) over the past 1 month?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_36,"""Recreation: How often you have done Walking, hiking over the past 1 month?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_37,Recreation: How often you have done Driving \ cycling (as a recreation) over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_38,Recreation: How often you have done Swimming over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_39,"""Recreation: How often you have done Hobby (e.g., collecting things) over the past 1 month?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_40,Recreation: How often you have done Shopping over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_41,"""Recreation: How often you have done Artistic activities (painting, crafts,) over the past 1 month?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_42,Recreation: Total of Recreation items,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_43,Prosocial: How often you have participated in Going to the movies over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_44,Prosocial: How often you have participated in Going to the theatre or a concert over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_45,"""Prosocial: How often you have participated in Watching an indoor sport (basketball, ice hockey) over the past 1 month?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_46,"""Prosocial: How often you have participated in Watching an outdoor sport (football, soccer) over the past 1 month?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_47,Prosocial: How often you have participated in Visiting an art gallery or museum over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_48,Prosocial: How often you have participated in Visiting an exhibition or fair over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_49,Prosocial: How often you have participated in Visiting places of interest over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_50,"""Prosocial: How often you have participated in Meetings, talks, etc over the past 1 month?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_51,Prosocial: How often you have participated in Evening class over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_52,Prosocial: How often you have participated in Visiting relatives in their homes over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_53,Prosocial: How often you have participated in Being visited by relatives over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_54,Prosocial: How often you have participated in Visiting friends (including boy \ girlfriends) over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_55,Prosocial: How often you have participated in Going to a party over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_56,Prosocial: How often you have participated in Attending formal occasions over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_57,Prosocial: How often you have participated in Going to a dance club over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_58,Prosocial: How often you have participated in Going to a bar or club over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_59,Prosocial: How often you have participated in Playing an indoor sport over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_60,Prosocial: How often you have participated in Playing an outdoor sport over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_61,Prosocial: How often you have participated in Club \ society (e.g. Gardening Club) over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_62,Prosocial: How often you have participated in Going to a coffee shop over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_63,Prosocial: How often you have participated in Eating out in a restaurant over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_64,Prosocial: How often you have participated in Church or temple activity over the past 1 month?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_65,Prosocial: Total of Prosocial items,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_66,Independence-c: How able are you at Public transport?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_67,Independence-c: How able are you at Handling money?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_68,Independence-c: How able are you at Budgeting?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_69,Independence-c: How able are you at Cooking for self?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_70,Independence-c: How able are you at Weekly shopping?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_71,Independence-c: How able are you at Looking for a job?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_72,Independence-c: How able are you at Washing own clothes?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_73,Independence-c: How able are you at Personal hygiene?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_74,"""Independence-c: How able are you at Washing, tidying, etc?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_75,Independence-c: How able are you at Buying things from stores?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_76,Independence-c: How able are you at Leaving the house alone?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_77,Independence-c: How able are you at Choosing and buying clothes?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_78,Independence-c: How able are you at Caring for personal appearance?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_79,Independence-c: Total of independence-c items,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_80,Employment/Occupational/Educational Functioning. Are you in regular employment?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_82,"""Employment/Occupational/Educational Functioning. 1. If yes, how many hours do you work each week?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_86,"""Employment/Occupational/Educational Functioning. (Are you in regular employment).2.If no, how many hours per week?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_89,Employment/Occupational/Educational Functioning. 5.Are you on disability?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_90,Employment/Occupational/Educational Functioning. 6.Do you attend hospital as a day patient?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_92,Employment/Occupational/Educational Functioning.8.Do you think you are capable of some sort of employment?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_93,"""Employment/Occupational/Educational Functioning. 9.If you are unemployed, how often do you make attempts to find a new job?""",G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_94,Employment/Occupational/Educational Functioning. Total of Items,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+bsfs_sec1_total,Total for Social Engagement/Withdrawn ,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+sfs_sec7_instruct,Assign one of the following scores on the basis of the information provided:,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+bsfs_sec_grandtotal1,SFS Grand Total if employed,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+bsfs_sec_grandtotal2,SFS Grand Total if unemployed,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+bsfs_sec1_q1_week,Highest Score:,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+dema6,Which Best describes your current living situation?,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+collection_title,collection_title,G:\Package_1204973\txtDocs\sfs01.txt,Social Functioning Scale
+collection_id,collection_id,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+sidp01_id,sidp01_id,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+par00a1,"301.0 Paranoid (PARND). (00A1) Suspects, without sufficient basis, that others are exploiting or deceiving him/her",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+par00a2,301.0 Paranoid (PARND). (00A2) Is preoccupied with unjustified doubts about loyalty or trustworthiness of friends or associates,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+par00a3,301.0 Paranoid (PARND). (00A3) Is reluctant to confide in others because of unwarranted fear that the info will be used maliciously against him/her,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+par00a4,301.0 Paranoid (PARND). (00A4) Reads hidden demeaning or threatening meanings into benign remarks or events,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+par00a5,"301.0 Paranoid (PARND). (00A5) Persistently bears grudges i.e. unforgiving of insults, injuries, or slights",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+par00a6,301.0 Paranoid (PARND). (00A6) Perceives attacks on his/her character or reputation that are not apparent to others and is quick to react angrily or counterattack,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+par00a7,"301.0 Paranoid (PARND). (00A7) Has recurrent suspicions, without justification, regarding fidelity of spouse of sexual partner",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+scz20a1,"301.20 Schizoid (SZOID).  (20A1) Neither desires nor enjoys close relationships, including being part of a family",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+scz20a2,301.20 Schizoid (SZOID).  (20A2) Almost always chooses solidarity activities,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+scz20a3,"301.20 Schizoid (SZOID).  (20A3) Has little, if any, interest in having sexual experiences with another person",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+scz20a4,"301.20 Schizoid (SZOID).  (20A4) Takes pleasure in few, if any, activities",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+scz20a5,301.20 Schizoid (SZOID).  (20A5) Lacks close friends or confidants other than 1st degree relatives,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+scz20a6,(20A6) Appears indifferent to praise or criticism,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+scz20a7,"301.20 Schizoid (SZOID).  (20A7) Shows emotional coldness, detachment, or flattened affectivity",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+szt22a1,301.22 Schizotypal (STYPL). (22A1) Ideas of reference,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+szt22a2,"301.22 Schizotypal (STYPL). (22A2) Odd beliefs or magical thinking, influencing behavior and inconsistent with sub-cultural norms",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+szt22a3,"301.22 Schizotypal (STYPL). (22A3) Unusual perceptual experiences, including bodily illusions",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+szt22a4,301.22 Schizotypal (STYPL). (22A4) Odd thinking and speech,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+szt22a5,301.22 Schizotypal (STYPL). (22A5) Suspiciousness or paranoid ideation,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+szt22a6,301.22 Schizotypal (STYPL). (22A6) Inappropriate or constricted affect,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+szt22a7,"301.22 Schizotypal (STYPL). (22A7) Behavior or appearance that is odd, eccentric, or peculiar",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+szt22a8,301.22 Schizotypal (STYPL). (22A8) Lack of close friends or confidants other than 1st degree relatives,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+szt22a9,301.22 Schizotypal (STYPL). (22A9) Excessive Social Anxiety that does not diminish with familiarity and tends to be associated with paranoid fears rather than negative judgements about self,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+ant70a1,301.7 Antisocial (ANTSO). (70A1) Failure to conform to social norms w/ respect to lawful behaviors as indicated by repeatedly performing acts that are grounds for arrest,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+ant70a2,"301.7 Antisocial (ANTSO). (70A2) Deceitfulness, as indicated by repeated lying, use of aliases, or conning others for personal profit or pleasure",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+ant70a3,301.7 Antisocial (ANTSO). (70A3) Impulsivity or failure to plan ahead,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+ant70a4,"301.7 Antisocial (ANTSO). (70A4) Irritability and aggressiveness, as indicated by repeated physical fights or assaults",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+ant70a5,301.7 Antisocial (ANTSO). (70A5) Reckless regard for safety of self or others,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+ant70a6,"301.7 Antisocial (ANTSO). (70A6) Consistent irresponsibility, as indicated by repeated failure to sustain consistent work behavior or honor financial obligations",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+ant70a7,"301.7 Antisocial (ANTSO). (70A7) Lack of remorse, as indicated by being indifferent to, or rationalizing having hurt, mistreated, or stolen from another",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+brd83a1,301.83 Borderline (BORDL). (83A1) Frantic efforts to avoid real or imagined abandonment,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+brd83a2,301.83 Borderline (BORDL). (83A2) A pattern of unstable and intense interpersonal relationships characterized by alternating between extremes of idealization and devaluation,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+brd83a3,301.83 Borderline (BORDL). (83A3) Identity disturbance: markedly and persistently unstable self-image or sense of self,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+brd83a4,"301.83 Borderline (BORDL). (83A4) Impulsivity in at least 2 areas that are potentially self damaging (e.g., spending, sex, substance abuse, reckless driving, binge eating)",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+brd83a5,"301.83 Borderline (BORDL). (83A5) Recurrent suicidal behavior, gestures, or threats, or self-mutilating behavior",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+brd83a6,301.83 Borderline (BORDL). (83A6) Affective instability/marked reactivity of mood,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+brd83a7,301.83 Borderline (BORDL). (83A7) Chronic feeling of emptiness,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+brd83a8,"301.83 Borderline (BORDL). (83A8) Inappropriate, intense anger or difficulty controlling anger",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+brd83a9,"301.83 Borderline (BORDL). (83A9) Transient, stress related paranoid ideation or severe dissociative symptoms",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+hst50a1,301.50 Histrionic (HISTR). (50A1) Is uncomfortable in situations in which he/she is not the center of attention,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+hst50a2,301.50 Histrionic (HISTR). (50A2) Interaction with others is often char. by inappropriate sexually seductive or provocative behavior,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+hst50a3,301.50 Histrionic (HISTR). (50A3) Displays rapidly shifting and shallow expression of emotion,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+hst50a4,301.50 Histrionic (HISTR). (50A4) Consistently uses physical appearance to draw attention to self,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+hst50a5,301.50 Histrionic (HISTR). (50A5) Style of speech that is excessively impressionistic and lacking in detail,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+hst50a6,"301.50 Histrionic (HISTR). (50A6) Shows self dramatization, theatricality, and exaggerated expression of emotion",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+hst50a7,"301.50 Histrionic (HISTR). (50A7) Is suggestible, i.e., easily influenced by others or circumstances",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+hst50a8,301.50 Histrionic (HISTR). (50A8) Considers relationships to be more intimate than they actually are,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+nar81a1,301.81 Narcissistic (NARCI). (81A1) Has a grandiose sense of self-importance,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+nar81a2,"301.81 Narcissistic (NARCI). (81A2) Is preoccupied with fantasies of unlimited success, power, brilliance, beauty, or ideal love",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+nar81a3,"301.81 Narcissistic (NARCI). (81A3) Believes he/she is ""special"" and unique and can only be understood by other ""special"" or high-status people",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+nar81a4,301.81 Narcissistic (NARCI). (81A4) Requires excessive admiration,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+nar81a5,301.81 Narcissistic (NARCI). (81A5) Has a sense of entitlement,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+nar81a6,"301.81 Narcissistic (NARCI). (81A6) Is interpersonally exploitative, i.e. takes advantage of others to achieve his/her own ends",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+nar81a7,301.81 Narcissistic (NARCI). (81A7) Lacks empathy: unwilling to recognize or identify with the feelings or needs of others,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+nar81a8,301.81 Narcissistic (NARCI). (81A8) Is often envious of others or believes that others are envious of him/her,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+nar81a9,"301.81 Narcissistic (NARCI). (81A9) Shows arrogant, haughty behaviors or attitudes",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+avd82a1,"301.82 Avoidant. (82A1) Avoids occupational activities that involve significant interpersonal contact because of fears of criticism, disapproval, rejection.",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+avd82a2,301.82 Avoidant. (82A2) Is unwilling to get involved with people unless certain of being liked,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+avd82a3,301.82 Avoidant. (82A3) Shows restraint within intimate relationships because of the fear of being shamed or ridiculed,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+avd82a4,301.82 Avoidant. (82A4) Is preoccupied with being criticized or rejected in social situations,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+avd82a5,301.82 Avoidant. (82A5) Is inhibited in new interpersonal situations because of feelings of inadequacy,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+avd82a6,"301.82 Avoidant. (82A6) Views self as socially inept, personally unappealing, or inferior to others",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+avd82a7,301.82 Avoidant. (82A7) Is unusually reluctant to take personal risks or to engage in any new activities because they may prove embarrassing,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+dpn60a1,301.6 Dependent (DEPEN). (60A1) Has difficulty making everyday decisions without an excessive amount of advice and reassurance from others,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+dpn60a2,301.6 Dependent (DEPEN). (60A2) Needs others to assume responsibility for most major areas of his/her life,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+dpn60a3,301.6 Dependent (DEPEN). (60A3) Has difficulty expressing disagreement with others because of fear of loss of support or approval,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+dpn60a4,301.6 Dependent (DEPEN). (60A4) Has difficulty initiating projects or doing things on his/her own (because of lack of self-confidence in judgement or abilities rather than a lack of motivation or energy),G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+dpn60a5,"301.6 Dependent (DEPEN). Goes to excessive lengths to obtain nurturance and support from others, to the point of volunteering to do things that are unpleasant",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+dpn60a6,301.6 Dependent (DEPEN). (60A6) Feels uncomfortable or helpless when alone because of exaggerated fears of being unable to care for him/herself,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+dpn60a7,301.6 Dependent (DEPEN). (60A7) Urgently seeks another relationship as a source of care and support when a close relationship ends,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+dpn60a8,301.6 Dependent (DEPEN). (60A8) Is unrealistically preoccupied with fears of being left to take care of himself or herself,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+obc40a1,"301.4 Obsessive -Compulsive (OBCMP). (40A1) Is preoccupied with details, rules, lists, order, organization, or schedules to the extent that the major point of activity is lost",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+obc40a2,301.4 Obsessive -Compulsive (OBCMP). (40A2) Shows perfectionism that interferes with task completion,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+obc40a3,301.4 Obsessive -Compulsive (OBCMP). (40A3) Is excessively devoted to work and productivity to the exclusion of leisure activities and friendships,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+obc40a4,"301.4 Obsessive -Compulsive (OBCMP). (40A4) Is over conscientious, scrupulous, and inflexible about matters of morality, ethics, or values (not accounted for by cultural or religious identification)",G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+obc40a5,301.4 Obsessive -Compulsive (OBCMP). (40A5) Is unable to discard worn-out or worthless objects even when they have no sentimental value,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+obc40a6,301.4 Obsessive -Compulsive (OBCMP). (40A6) Is reluctant to delegate tasks or to work with others unless they submit to exactly his/her way of doing things,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+obc40a7,301.4 Obsessive -Compulsive (OBCMP). (40A7) Adopts a miserly spending style toward both self and others; money is viewed as something to be hoarded for future catastrophes,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+obc40a8,301.4 Obsessive -Compulsive (OBCMP). (40A8) Shows rigidity and stubbornness,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+collection_title,collection_title,G:\Package_1204973\txtDocs\sidp01.txt,Structured Interview for DSM IV Personality
+collection_id,collection_id,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+wms_3_adult02_id,wms_3_adult02_id,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+wms3_ss_fts,Spatial Span Forward Total Score,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+wms3_ss_bts,Spatial Span Backward Total Score,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+wms3_ss_tss,Spatial Span Total Score Scaled Score,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+handedness,handedness,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+wmsfs_mlc,Forward Span Max Length Correct,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+wmsbs_mlc,Backward Span Max Length Correct,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+collection_title,collection_title,G:\Package_1204973\txtDocs\wms_3_adult02.txt,"Wechsler Memory Scale, Third Edition WMS-III"
+collection_id,collection_id,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT4
+wrat401_id,wrat401_id,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT5
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT6
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT7
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT8
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT9
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT10
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT11
+lr_rawscore,Letter Reading Raw Score,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT12
+wr_rawscore,Word Reading Raw Score,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT13
+wr_totalrawscore,Word Reading Total Raw Score,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT14
+wr_standardscore,Word Reading Standard Score,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT15
+collection_title,collection_title,G:\Package_1204973\txtDocs\wrat401.txt,Wide Range Achievement Test 4 WRAT16
+collection_id,collection_id,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+ymrs01_id,ymrs01_id,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+dataset_id,dataset_id,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+subjectkey,The NDAR Global Unique Identifier (GUID) for research subject,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+src_subject_id,Subject ID how it's defined in lab/project,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+interview_date,Date on which the interview/genetic test/sampling/imaging/biospecimen was completed. MM/DD/YYYY,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+interview_age,Age in months at the time of the interview/test/sampling/imaging.,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+sex,Sex of subject at birth,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+elevmood,Elevated Mood,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+incmotor,Increased Motor Activity/Energy,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+sexinter,Sexual Interest,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+sleepamt,Sleep,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+irritamt,Irritability,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+speech,Speech (Rate and Amount),G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+langdisr,Language - Thought Disorder,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+content,Content,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+disrupt,Disruptive - Aggressive Behavior,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+appearnc,Appearance,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+insight,Insight,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+ymrstot,YMRS Total score,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
+collection_title,collection_title,G:\Package_1204973\txtDocs\ymrs01.txt,Young Mania Rating Scale
