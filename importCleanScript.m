@@ -107,17 +107,17 @@ for ii = 1:length(files)
             = removeNoiseChansVoltSZ(EEG, "no auto save");
 
     %% interpolation to standard 32-channel montage 
-    standardTrodes; 
-    EEG = convertCoordinatesSZ(EEG, standardEEGlocs); 
+%     standardTrodes; 
+%     EEG = convertCoordinatesSZ(EEG, standardEEGlocs); 
 
     %% do connectivity analysis since this is easier to do before splitting the participant
     %frequency params
-    frex = logspace(log10(2),log10(80),100);
-    numfrex = length(frex); 
-    stds = linspace(2,5,numfrex);
-    %calculating the connectivity, but this is flawed right now because it
-    %will need to be split for eyes open versus closed data
-    [data.ispc, EEG] = getISPCSZ(EEG, frex, numfrex, stds);
+%     frex = logspace(log10(2),log10(80),100);
+%     numfrex = length(frex); 
+%     stds = linspace(2,5,numfrex);
+%     %calculating the connectivity, but this is flawed right now because it
+%     %will need to be split for eyes open versus closed data
+%     [data.ispc, EEG] = getISPCSZ(EEG, frex, numfrex, stds);
 
     %% things to do next: 
     %the data need to be split into individual channel files for

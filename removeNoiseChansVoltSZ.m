@@ -46,7 +46,8 @@ if ~isfield(EEG, 'noiseRemoved')
         end
     end
     
-
+    ogDeflection = maxDeflection; 
+    p = ones(size(maxDeflection)); 
 
 
     %remove channels where over 50% of trials involve a max deflection of
@@ -58,9 +59,11 @@ if ~isfield(EEG, 'noiseRemoved')
         %remove trials where over 75% of channels have 100 microvolt
         %deflections
         noiseTrials = find(sum(maxDeflection>100,1)> (size(EEG.data,1)*3/4) );
+       
         if ~isempty(noiseTrials)
             EEG.data(:,:,noiseTrials) = []; 
             maxDeflection(:,noiseTrials) = []; 
+             p(:,noiseTrials) = 0; 
         end
     
         nbChanFinal = size(EEG.data,1); 
@@ -75,6 +78,7 @@ if ~isfield(EEG, 'noiseRemoved')
              EEG.nbchan = EEG.nbchan - length(noiseChans); 
              EEG.data(noiseChans,:,:) = []; 
              maxDeflection(noiseChans,:) = []; 
+             p(noiseChans,:) = 0; 
         else
             EEG.removedChans = []; 
         end
@@ -83,7 +87,8 @@ if ~isfield(EEG, 'noiseRemoved')
         noiseTrials = find(sum(maxDeflection>100,1)> (size(EEG.data,1)/4) );
         if ~isempty(noiseTrials)
             EEG.data(:,:,noiseTrials) = []; 
-            maxDeflection(:,noiseTrials) = []; 
+            maxDeflection(:,noiseTrials) = [];
+            p(:,noiseTrials) = 0;
         end
     
         nbChanFinal = size(EEG.data,1); 
@@ -100,6 +105,7 @@ if ~isfield(EEG, 'noiseRemoved')
              EEG.nbchan = EEG.nbchan - length(noiseChans); 
              EEG.data(noiseChans,:,:) = []; 
              maxDeflection(noiseChans,:) = []; 
+             p(noiseChans,:) = 0;
         else
             EEG.removedChans = []; 
         end
@@ -110,11 +116,22 @@ if ~isfield(EEG, 'noiseRemoved')
             EEG.data(:,:,noiseTrials) = []; 
             maxDeflection(:,noiseTrials) = []; 
             EEG.epochStamps(noiseTrials) = []; 
+            p(:,noiseTrials) = 0;
         end
     
         nbChanFinal = size(EEG.data,1); 
         nbTrialFinal = size(EEG.data,3);
     end
+
+figure
+subplot 211
+imagesc(ogDeflection)
+caxis([25, 100])
+colorbar
+subplot 212
+imagesc(p)
+colorbar
+title(EEG.datfile, 'interpreter', 'none')
 
 %% rereference the data to average
    
