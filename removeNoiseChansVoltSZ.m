@@ -82,9 +82,9 @@ if ~isfield(EEG, 'noiseRemoved')
         else
             EEG.removedChans = []; 
         end
-         %remove trials where over 25% of channels have 100 microvolt
+         %remove trials where over 16% of channels have 100 microvolt
         %deflections
-        noiseTrials = find(sum(maxDeflection>100,1)> (size(EEG.data,1)/4) );
+        noiseTrials = find(sum(maxDeflection>100,1)> (size(EEG.data,1)/6) );
         if ~isempty(noiseTrials)
             EEG.data(:,:,noiseTrials) = []; 
             maxDeflection(:,noiseTrials) = [];
