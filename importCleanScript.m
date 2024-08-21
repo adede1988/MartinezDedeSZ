@@ -6,6 +6,7 @@ addpath('C:\Users\dtf8829\Documents\MATLAB\eeglab2023.0')
 
 %setting code paths: 
 addpath([codePre 'MartinezDedeSZ'])
+addpath([codePre 'SheffieldAutismBiomarkers'])
 cd([codePre 'MartinezDedeSZ'])
 standardTrodes
 
@@ -177,7 +178,8 @@ for ii = 1:length(files)
     %make copies of meta data: 
     dataOpen = data; 
     dataClosed = data; 
-
+    dataOpen.eyes = 'open'; 
+    dataClosed.eyes = 'closed'; 
     %% do connectivity analysis since this is easier to do before splitting the participant
     %frequency params
     frex = logspace(log10(2),log10(80),100);
@@ -191,8 +193,8 @@ for ii = 1:length(files)
     %% split files
  
     %NOTE: you need to make a CHANFILES folder inside the data directory
-    fileSplitterSZ(EEGopen, join([data.dir '/CHANFILES/OPEN_' data.key], ''))
-    fileSplitterSZ(EEGclosed, join([data.dir '/CHANFILES/CLOSED_' data.key], ''))
+%     fileSplitterSZ(EEGopen, join([data.dir '/CHANFILES/OPEN_' data.key], ''))
+%     fileSplitterSZ(EEGclosed, join([data.dir '/CHANFILES/CLOSED_' data.key], ''))
 
 
     %% save out the subject level files for open and closed data: 
