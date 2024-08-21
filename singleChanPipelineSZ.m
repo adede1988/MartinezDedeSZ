@@ -12,12 +12,12 @@ stds = linspace(2,5,numfrex);
 
 
 %% power
-if ~isfield(out, 'fg') %check that power has not been calculated for this channel
+if ~isfield(out, 'power') %check that power has not been calculated for this channel
     out.power = chanPowerSZ(out, frex, numfrex, stds);
 end
 
 %% PAC
-if ~isfield(out, 'gfh') %check that PAC has not been calculated for this channel
+if ~isfield(out, 'PAC') %check that PAC has not been calculated for this channel
     
      [out.PAC, out.PACMI, out.PACsig, out.phasePref, out.MINull] = chanPACSZ(out);
     

@@ -49,7 +49,7 @@ for ii = 1:length(files)
     %col8: paranoia measure 1, value? 
     data.para1 = 100; % HARD CODE NEEDS FIX
     %col9: paranoia measure 2, value? 
-    data.para2 = 100;
+    data.para2 = 100; % HARD CODE NEEDS FIX
     %col10: para1_measure
     data.para1_measure = "trait variable"; %WHAT'S THE NAME? 
     %col11: para2_measure
@@ -156,7 +156,8 @@ for ii = 1:length(files)
     %% interpolation to standard 32-channel montage 
     standardTrodes; 
     EEG = convertCoordinatesSZ(EEG, standardEEGlocs); 
-
+    chanLocs = EEG.chanlocsSTD; 
+    save([datPre '/' 'exampleChanLocs.mat'], 'chanLocs'); 
     %% split to open and closed Dat
     EEGclosed = EEG; 
     EEGopen = EEG; 
