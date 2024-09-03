@@ -1,6 +1,6 @@
 
 codePre = 'G:/My Drive/GitHub/';
-datPre = 'G:/My Drive/Milne/SZproject/';
+datPre = 'H:\SZ_anton_data\EEG Resting State Data/';
 
 addpath([codePre 'MartinezDedeSZ'])
 summaryDatSave = [datPre 'SUMDAT/'];

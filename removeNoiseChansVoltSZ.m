@@ -1,4 +1,5 @@
-function [nbChanOrig, nbChanFinal, nbTrialOrig, nbTrialFinal, EEG] = removeNoiseChansVolt(EEG, path)
+function [nbChanOrig, nbChanFinal, nbTrialOrig, nbTrialFinal, EEG] = ...
+    removeNoiseChansVoltSZ(EEG)
 
 %input: 
 %       EEG             EEGlab struct with one subject's data
@@ -131,7 +132,7 @@ colorbar
 subplot 212
 imagesc(p)
 colorbar
-title(EEG.datfile, 'interpreter', 'none')
+title(EEG.comments, 'interpreter', 'none')
 
 %% rereference the data to average
    

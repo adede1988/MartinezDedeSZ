@@ -1,7 +1,7 @@
 
 %adjust these for paths on your local machine: 
 codePre = 'G:\My Drive\GitHub\';
-datPre = 'G:\My Drive\Milne\SZproject';
+datPre = 'H:\SZ_anton_data\EEG Resting State Data';
 addpath('C:\Users\dtf8829\Documents\MATLAB\eeglab2023.0')
 
 %setting code paths: 
@@ -17,15 +17,25 @@ files = dir(datPre);
 %select the Filt.set files: 
 %NOTE: I think we should really start with raw data, needs editing to
 %select raw data
-files = files(cellfun(@(x) contains(x, 'Filt.set'), {files.name}));
+files = files(cellfun(@(x) contains(x, '.cnt'), {files.name}));
 
 %loop subject files: 
 for ii = 1:length(files)
-
+ii
+try
     %% read in the data
-    EEG = pop_loadset('filename',files(ii).name,'filepath',files(ii).folder);
-    [ALLEEG, EEG, CURRENTSET] = eeg_store( ALLEEG, EEG, 0 );
+    EEG = pop_loadcnt([datPre '\' files(ii).name],...
+        'dataformat', 'auto', 'memmapfile', '');
+    chanDat = pop_loadset('filename','C2_ChannelLoc_Filt.set',...
+        'filepath','G:\My Drive\Milne\SZproject');
+    EEG.chanlocs = chanDat.chanlocs; 
+%     [ALLEEG, EEG, CURRENTSET] = eeg_store( ALLEEG, EEG, 0 );
    
+
+   
+
+
+
     %% make meta data struct
     data = struct; 
     %col1: subject key
@@ -110,6 +120,27 @@ for ii = 1:length(files)
     %trim the data and the time to a whole number epoch length:
     EEG.data = EEG.data(:,1:epochs*(2*EEG.srate)); 
     time = EEG.times(1:epochs*(2*EEG.srate)); 
+
+
+     %design notch filter
+    wo = 50/(EEG.srate/2); 
+    bw = wo/10; 
+    [b,a] = iirnotch(wo,bw); 
+  
+    %apply notch, high pass, and low pass
+    L = size(EEG.data,2); 
+    nextSeg = EEG.data;
+    nextSeg = nextSeg - mean(nextSeg,2); 
+    padDat = flip(nextSeg,2);
+    padDat = [padDat, nextSeg, padDat]; 
+    test =  highpass(double(padDat)', .5, EEG.srate); 
+    test = lowpass(test, 200, EEG.srate); 
+    test = filtfilt(b,a,test); 
+    EEG.data(:,:) = test(L+1:L*2, :)';       
+   
+
+
+
     %reshape the data and the time stamps into epoched matrices
     EEG.data = reshape(EEG.data(:, 1:(2*EEG.srate)*epochs),...
         [size(EEG.data,1),(2*EEG.srate),epochs ]);
@@ -130,29 +161,29 @@ for ii = 1:length(files)
     end
 
     %% filter the data: 
-
-    %design notch filter
-    wo = 50/(EEG.srate/2); 
-    bw = wo/35; 
-    [b,a] = iirnotch(wo,bw); 
-  
-    %apply notch, high pass, and low pass
-    for seg = 1:epochs
-        nextSeg = EEG.data(:,:,seg);
-        nextSeg = nextSeg - mean(nextSeg,2); 
-        padDat = flip(nextSeg,2);
-        padDat = [padDat, nextSeg, padDat]; 
-        test =  highpass(double(padDat)', .5, EEG.srate); 
-        test = lowpass(test, 200, EEG.srate); 
-        test = filtfilt(b,a,test); 
-        EEG.data(:,:, seg) = test(EEG.srate*2+1:EEG.srate*4,:)';       
-    end
+% 
+%     %design notch filter
+%     wo = 50/(EEG.srate/2); 
+%     bw = wo/10; 
+%     [b,a] = iirnotch(wo,bw); 
+%   
+%     %apply notch, high pass, and low pass
+%     for seg = 1:epochs
+%         nextSeg = EEG.data(:,:,seg);
+%         nextSeg = nextSeg - mean(nextSeg,2); 
+%         padDat = flip(nextSeg,2);
+%         padDat = [padDat, nextSeg, padDat]; 
+%         test =  highpass(double(padDat)', .5, EEG.srate); 
+%         test = lowpass(test, 200, EEG.srate); 
+%         test = filtfilt(b,a,test); 
+%         EEG.data(:,:, seg) = test(EEG.srate*2+1:EEG.srate*4,:)';       
+%     end
 
 
 
     %% clean the data: 
     [data.nbChanOrig, data.nbChanFinal, data.nbTrialOrig, data.nbTrialFinal,EEG]...
-            = removeNoiseChansVoltSZ(EEG, "no auto save");
+            = removeNoiseChansVoltSZ(EEG);
 
     %% interpolation to standard 32-channel montage 
     standardTrodes; 
@@ -193,8 +224,8 @@ for ii = 1:length(files)
     %% split files
  
     %NOTE: you need to make a CHANFILES folder inside the data directory
-%     fileSplitterSZ(EEGopen, join([data.dir '/CHANFILES/OPEN_' data.key], ''))
-%     fileSplitterSZ(EEGclosed, join([data.dir '/CHANFILES/CLOSED_' data.key], ''))
+    fileSplitterSZ(EEGopen, join([data.dir '/CHANFILES/OPEN_' data.key], ''))
+    fileSplitterSZ(EEGclosed, join([data.dir '/CHANFILES/CLOSED_' data.key], ''))
 
 
     %% save out the subject level files for open and closed data: 
@@ -202,7 +233,9 @@ for ii = 1:length(files)
     %NOTE: you need to make a SUMDAT folder inside the data directory
     save(join([data.dir '/SUMDAT/OPEN_' data.key '.mat']), 'dataOpen')
     save(join([data.dir '/SUMDAT/CLOSED_' data.key '.mat']), 'dataClosed')
-
+catch
+    files(ii).name
+end
 end
 
 

@@ -1,6 +1,6 @@
-% EEGLAB history file generated on the 06-Aug-2024
+% EEGLAB history file generated on the 01-Sep-2024
 % ------------------------------------------------
-EEG = pop_loadset('filename','C2_ChannelLoc_Filt.set','filepath','G:\\My Drive\\Milne\\SZproject\\');
-[ALLEEG, EEG, CURRENTSET] = eeg_store( ALLEEG, EEG, 0 );
-pop_saveh( EEG.history, 'eeglabhist.m', 'G:\My Drive\GitHub\MartinezDedeSZ\');
+eeglab('redraw');
+EEG = pop_loadcnt('H:\SZ_anton_data\EEG Resting State Data\CTOL1.cnt' , 'dataformat', 'auto', 'memmapfile', '');
+[ALLEEG EEG CURRENTSET] = pop_newset(ALLEEG, EEG, 0,'gui','off'); 
 eeglab redraw;
