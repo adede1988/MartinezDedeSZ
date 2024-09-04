@@ -2,7 +2,7 @@
 
 
 codePre = 'G:/My Drive/GitHub/';
-datPre = 'G:/My Drive/Milne/SZproject/';
+datPre = 'H:\SZ_anton_data\EEG Resting State Data\';
 
 addpath([codePre 'MartinezDedeSZ'])
 summaryDatSave = [datPre 'SUMDAT/'];
@@ -19,11 +19,13 @@ transforms = [1,2,3,4];
 numfrex = length(frex); 
 stds = linspace(2,5,numfrex);
 
+demographics = readtable([datPre 'demographics.csv']);
 
 for ii = 1:length(filenames)
     tic
     filenames(ii).errorFlag = 0; 
     data = load([filenames(ii).folder '/' filenames(ii).name]);
+   
     if isfield(data, 'data')
         data = data.data; 
     elseif isfield(data, 'dataClosed')
@@ -31,13 +33,38 @@ for ii = 1:length(filenames)
     else
         data = data.dataOpen; 
     end
-    
+     %split the key 
+    key = strsplit(data.key, '.cnt'); 
+    data.key = key{1}; 
      if strcmp(data.eyes, 'open')
         out = load([chanDatSave 'OPEN_' data.key '_processed_temp' num2str(1) '.mat']).out; 
     else
         out = load([chanDatSave 'CLOSED_' data.key '_processed_temp' num2str(1) '.mat']).out; 
     end
     
+
+    %update the demographic info
+    if contains(data.key, "S")
+        subNum = strsplit(data.key, 'SCH');
+        subNum = ['s' subNum{2}];
+        data.group = 'SZ'; 
+    else
+        subNum = strsplit(data.key, 'CTOL');
+        subNum = ['c' subNum{2}];
+    end
+    if strcmp('c14a', subNum)
+        subNum = 'c14'; 
+    end
+
+    IDs = table2cell(demographics(:,1)); 
+    tmpDemo = demographics(cellfun(@(x) strcmp(subNum, x),... 
+                            IDs), :);
+    data.age = tmpDemo.Age; 
+    data.sex = tmpDemo.Gender; 
+    data.para1 = tmpDemo.Ideas_Persecution; 
+    data.para1_measure = "Ideas_Persecution"; 
+    data.para2 = tmpDemo.Paranoia_Traits; 
+    data.para2_measure = "Paranoia_Traits"; 
 
 
     trialCount = size(out.data,3);

@@ -114,7 +114,7 @@ try
     end
 
     
-    %% epoch the data into 2 second periods
+    %% filter data and epoch the data into 2 second periods
     %how many epochs can we fit into the recording? 
     epochs = floor(size(EEG.data,2)/(2*EEG.srate));
     %trim the data and the time to a whole number epoch length:
