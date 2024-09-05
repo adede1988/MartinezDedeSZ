@@ -126,6 +126,18 @@ try
     wo = 50/(EEG.srate/2); 
     bw = wo/10; 
     [b,a] = iirnotch(wo,bw); 
+
+%     wo = 100/(EEG.srate/2); 
+%     bw = wo/10; 
+%     [b2,a2] = iirnotch(wo,bw); 
+% 
+%     wo = 150/(EEG.srate/2); 
+%     bw = wo/10; 
+%     [b3,a3] = iirnotch(wo,bw); 
+% 
+%     wo = 200/(EEG.srate/2); 
+%     bw = wo/10; 
+%     [b4,a4] = iirnotch(wo,bw); 
   
     %apply notch, high pass, and low pass
     L = size(EEG.data,2); 
@@ -136,6 +148,9 @@ try
     test =  highpass(double(padDat)', .5, EEG.srate); 
     test = lowpass(test, 200, EEG.srate); 
     test = filtfilt(b,a,test); 
+%     test = filtfilt(b2,a2,test);
+%     test = filtfilt(b3,a3,test);
+%     test = filtfilt(b4,a4,test);
     EEG.data(:,:) = test(L+1:L*2, :)';       
    
 
@@ -185,9 +200,64 @@ try
     [data.nbChanOrig, data.nbChanFinal, data.nbTrialOrig, data.nbTrialFinal,EEG]...
             = removeNoiseChansVoltSZ(EEG);
 
+    %% reality check alpha plot
+%     frex = logspace(log10(2),log10(80),100);
+%     transforms = [1,2,3,4]; 
+%     numfrex = length(frex); 
+%     stds = linspace(2,5,numfrex);
+%     powSpect = zeros(size(EEG.data,1), 1); 
+%     for chan = 1:size(EEG.data,1)
+%        
+%     
+%     test = getChanTrialTF(squeeze(EEG.data(chan,:,:)),...
+%                         frex(43), 1, stds(43),500);
+%     
+%     powSpect(chan, :) = squeeze(mean(abs(test), [1,2])); 
+%     
+%     
+%     
+%     
+%     
+%     end
+% %     
+% %     figure
+% %     imagesc(powSpect)
+% %     yticks([1:size(EEG.data,1)])
+% %     yticklabels({EEG.chanlocs.labels})
+% %     title(data.key)
+% %    
+%     figure
+%     subplot 211
+%     topoplot(powSpect, EEG.chanlocs,'electrodes','on','plotrad',.53); 
+%     
+%     title(data.key)
+
     %% interpolation to standard 32-channel montage 
     standardTrodes; 
-    EEG = convertCoordinatesSZ(EEG, standardEEGlocs); 
+
+   
+    EEG = convertCoordinatesSZ(EEG, standardEEGlocs, pi/2); 
+    
+%     powSpect = zeros(size(EEG.dataSTD,1), 1); 
+%     for chan = 1:size(EEG.dataSTD,1)
+%        
+%     
+%     test = getChanTrialTF(squeeze(EEG.dataSTD(chan,:,:)),...
+%                         frex(43), 1, stds(43),500);
+%     
+%     powSpect(chan) = squeeze(mean(abs(test), [1,2])); 
+%     
+%     
+%     
+%     
+%     
+%     end
+%     plot(powSpect)
+%     topoplot(powSpect, EEG.chanlocsSTD,'electrodes','on','plotrad',1); 
+    
+
+    %% 
+
     chanLocs = EEG.chanlocsSTD; 
     save([datPre '/' 'exampleChanLocs.mat'], 'chanLocs'); 
     %% split to open and closed Dat

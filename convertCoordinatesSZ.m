@@ -1,4 +1,4 @@
-function [EEG] = convertCoordinatesSZ(EEG, standardLocs)
+function [EEG] = convertCoordinatesSZ(EEG, standardLocs, adjFact)
 
 %input: 
 %       EEG             eeglab struct containing one subject's eeg data
@@ -23,7 +23,7 @@ function [EEG] = convertCoordinatesSZ(EEG, standardLocs)
 %fall 2022
 
 
-    if ~isfield(EEG, 'dataSTD')
+    if ~isfield(EEG, 'dataSTDdf')
     %% transform coordinates for input channels to a standard circle with radius 1
     
     
@@ -64,7 +64,10 @@ function [EEG] = convertCoordinatesSZ(EEG, standardLocs)
     %hack: rotate the standard map by pi/2 for some datasets. This needs to be checked for each dataset
 
  
-    adjFact = pi/2; 
+%     adjFact = pi/2; 
+% 
+% 
+%     adjFact = 0; 
     
 
     %note assumption here that standardLocs contains theta and phi
@@ -76,7 +79,7 @@ function [EEG] = convertCoordinatesSZ(EEG, standardLocs)
     Zstd = cos(standardLocs.theta); 
 
     for ii=1:length(Xstd)
-        EEG.chanlocsSTD(ii).labels = standardLocs.label(ii); 
+        EEG.chanlocsSTD(ii).labels = char(standardLocs.label(ii)); 
         EEG.chanlocsSTD(ii).X = Xstd(ii); 
         EEG.chanlocsSTD(ii).Y = Ystd(ii); 
         EEG.chanlocsSTD(ii).Z = Zstd(ii); 
@@ -114,13 +117,13 @@ function [EEG] = convertCoordinatesSZ(EEG, standardLocs)
 
     end
 
-    %alignment confirm figure: 
-%     figure
-%     scatter3( [EEG.chanlocs.X],[EEG.chanlocs.Y],[EEG.chanlocs.Z]) 
-%     text( [EEG.chanlocs.X],[EEG.chanlocs.Y],[EEG.chanlocs.Z], {EEG.chanlocs.labels})
-%     hold on 
-%     scatter3(Xstd, Ystd, Zstd)
-%     text(Xstd, Ystd, Zstd, {EEG.chanlocsSTD.labels})
+%     %alignment confirm figure: 
+    figure
+    scatter3( [EEG.chanlocs.X],[EEG.chanlocs.Y],[EEG.chanlocs.Z]) 
+    text( [EEG.chanlocs.X],[EEG.chanlocs.Y],[EEG.chanlocs.Z], {EEG.chanlocs.labels})
+    hold on 
+    scatter3(Xstd, Ystd, Zstd)
+    text(Xstd, Ystd, Zstd, {EEG.chanlocsSTD.labels})
 
     %% interpolate the data
 
